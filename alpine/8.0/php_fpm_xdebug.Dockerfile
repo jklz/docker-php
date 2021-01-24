@@ -1,8 +1,8 @@
 ###########################################
-#           PHP 8.0 FPM Enviroment        #
+#           PHP 7.4 FPM Enviroment        #
 ###########################################
 
-FROM jklz/php:8.0-fpm-alpine
+FROM jklz/php:7.4-fpm-alpine
 
 LABEL maintainer="Jared Spencer <jklz@me.com>"
 

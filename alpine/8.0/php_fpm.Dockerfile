@@ -1,8 +1,8 @@
 ###########################################
-#           PHP 8.0 CLI Enviroment        #
+#           PHP 7.4 FPM Enviroment        #
 ###########################################
 
-FROM php:8.0-cli-alpine
+FROM php:7.4-fpm-alpine
 
 LABEL maintainer="Jared Spencer <jklz@me.com>"
 

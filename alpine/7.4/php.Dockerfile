@@ -1,8 +1,8 @@
 ###########################################
-#           PHP 7.4 Enviroment            #
+#           PHP 8.0 Enviroment            #
 ###########################################
 
-FROM php:7.4-alpine
+FROM php:8.0-alpine
 
 LABEL maintainer="Jared Spencer <jklz@me.com>"
 
