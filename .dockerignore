@@ -1,0 +1,12 @@
+# ignore changes to git
+.git
+.gitignore
+
+# default ignore all readme
+*.md
+
+# don't ignore main readme
+!README.md
+
+# ignore files from jetbrains
+.idea
