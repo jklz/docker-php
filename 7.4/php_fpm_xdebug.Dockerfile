@@ -12,4 +12,4 @@ RUN chmod 777 /setup/scripts/setup-xdebug.sh
 
 RUN /setup/scripts/setup-xdebug.sh
 
-EXPOSE 9001;
+EXPOSE 9001
